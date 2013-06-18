@@ -1,4 +1,4 @@
-PWD /Users/chris/Dropbox/UCF/2013 Spring/1102/Research Proposal
+PWD /Users/chris/Dropbox/GitHub Repos/friend-1102/Research Proposal
 INPUT /usr/local/texlive/2012/texmf.cnf
 INPUT /usr/local/texlive/2012/texmf/web2c/texmf.cnf
 INPUT /usr/local/texlive/2012/texmf-var/web2c/xetex/xelatex.fmt
@@ -314,6 +314,10 @@ INPUT /usr/local/texlive/2012/texmf-dist/tex/latex/realscripts/realscripts.sty
 INPUT /usr/local/texlive/2012/texmf-dist/tex/latex/realscripts/realscripts.sty
 INPUT /usr/local/texlive/2012/texmf-dist/tex/latex/metalogo/metalogo.sty
 INPUT /usr/local/texlive/2012/texmf-dist/tex/latex/metalogo/metalogo.sty
+INPUT /usr/local/texlive/2012/texmf-dist/tex/latex/draftwatermark/draftwatermark.sty
+INPUT /usr/local/texlive/2012/texmf-dist/tex/latex/draftwatermark/draftwatermark.sty
+INPUT /usr/local/texlive/2012/texmf-dist/tex/latex/everypage/everypage.sty
+INPUT /usr/local/texlive/2012/texmf-dist/tex/latex/everypage/everypage.sty
 INPUT /usr/local/texlive/2012/texmf-dist/tex/latex/tabulary/tabulary.sty
 INPUT /usr/local/texlive/2012/texmf-dist/tex/latex/tabulary/tabulary.sty
 INPUT /usr/local/texlive/2012/texmf-dist/tex/latex/tools/array.sty

@@ -1,10 +1,10 @@
 # Fdb version 3
-["biber research-proposal"] 1359121481 "research-proposal.bcf" "research-proposal.bbl" "research-proposal" 1359121896
-  "research-proposal.bcf" 1359121895 89683 0cc578c961efd46e819397f48ac889c8 ""
+["biber research-proposal"] 1359121481 "research-proposal.bcf" "research-proposal.bbl" "research-proposal" 1371572794
+  "research-proposal.bcf" 1371572794 89683 0cc578c961efd46e819397f48ac889c8 ""
   (generated)
   "research-proposal.bbl"
   "research-proposal.blg"
-["pdflatex"] 1359121890 "research-proposal.tex" "research-proposal.pdf" "research-proposal" 1359121896
+["pdflatex"] 1371572790 "research-proposal.tex" "research-proposal.pdf" "research-proposal" 1371572794
   "/Users/chris/Library/texmf/tex/latex/chrisfriend-OTF-support.sty" 1315411028 1002 2c45db427d66d259cb6ff9f3529f905c ""
   "/Users/chris/Library/texmf/tex/latex/chrisfriend-comp.sty" 1344311023 1733 f2f2c442dea5db3a52bc3bbc963283d1 ""
   "/Users/chris/Library/texmf/tex/pegasus.pdf" 1313619142 8436 1259f3fe5176e1a49cb750ed906cc903 ""
@@ -126,6 +126,7 @@
   "/usr/local/texlive/2012/texmf-dist/tex/latex/biblatex/lbx/american.lbx" 1342308459 169 40f2892b6b9cee1ffa9c07b78605a5a1 ""
   "/usr/local/texlive/2012/texmf-dist/tex/latex/biblatex/lbx/english.lbx" 1342308459 30487 1204a2cd0dcfcba7d1123c753ec2d5fa ""
   "/usr/local/texlive/2012/texmf-dist/tex/latex/booktabs/booktabs.sty" 1211777752 6375 989ecfb545a13610facc71ae7e40ced1 ""
+  "/usr/local/texlive/2012/texmf-dist/tex/latex/draftwatermark/draftwatermark.sty" 1325975934 3064 961851a8ff25ab794e5674f7735198a0 ""
   "/usr/local/texlive/2012/texmf-dist/tex/latex/enumitem/enumitem.sty" 1317339792 42666 6fa770e3485520a6a5f2ea7d259c8f8d ""
   "/usr/local/texlive/2012/texmf-dist/tex/latex/etex-pkg/etex.sty" 1214928088 15274 9f6a2469ac8ebe6168e12b8f32cbe599 ""
   "/usr/local/texlive/2012/texmf-dist/tex/latex/etoolbox/etoolbox.sty" 1294098555 41188 02561c41bb08b479074b6e76f0b7d639 ""
@@ -133,6 +134,7 @@
   "/usr/local/texlive/2012/texmf-dist/tex/latex/euenc/eu1lmr.fd" 1266195411 2284 11da099e92da4724f712149045c96354 ""
   "/usr/local/texlive/2012/texmf-dist/tex/latex/euenc/eu1lmss.fd" 1266195411 1546 f73305b0ca2520efb4953d14dfcb9cb7 ""
   "/usr/local/texlive/2012/texmf-dist/tex/latex/eukdate/eukdate.sty" 1237480807 2762 3ad1ada929f562fb96a502c7b13b8b88 ""
+  "/usr/local/texlive/2012/texmf-dist/tex/latex/everypage/everypage.sty" 1203617188 1871 53b093593e9de3500bd231f5c25131b7 ""
   "/usr/local/texlive/2012/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty" 1160175134 20521 e5d13d98d57bd53d4fed3aa61bd29c86 ""
   "/usr/local/texlive/2012/texmf-dist/tex/latex/fontspec/fontspec-patches.sty" 1336345946 3686 eeae194f20d99716f110235cf1e51399 ""
   "/usr/local/texlive/2012/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty" 1336345946 82271 6046e78455b8ff04e7a28f00e6e304f6 ""
@@ -220,11 +222,11 @@
   "/usr/local/texlive/2012/texmf-var/web2c/xetex/xelatex.fmt" 1341108757 3110378 0403bb164468d05470a81b7d8105cc63 ""
   "/usr/local/texlive/2012/texmf.cnf" 1341108668 572 7ea7194897937febeb63145e1c3a1f03 ""
   "/usr/local/texlive/2012/texmf/web2c/texmf.cnf" 1336865692 31299 729e216d9b945005c0d4b079c0500bc9 ""
-  "research-proposal.aux" 1359121895 2506 fab7af7a879afd0e5a28df41e5ab19f9 ""
+  "research-proposal.aux" 1371572794 3356 4d17cc7cf1386ba4f1a5de9b83ee348a ""
   "research-proposal.bbl" 1359121482 466 478a929e8fb850b91a9989632aa37b30 "biber research-proposal"
-  "research-proposal.out" 1359121895 219 6d77e09a907ce03a093c1236f7652622 ""
-  "research-proposal.run.xml" 1359121895 2493 89df3ad5d8a9c7928312def2d7621721 ""
-  "research-proposal.tex" 1359121888 6338 edffc9b5b534d40e8bf255ba4586f0f4 ""
+  "research-proposal.out" 1371572794 219 6d77e09a907ce03a093c1236f7652622 ""
+  "research-proposal.run.xml" 1371572794 2493 89df3ad5d8a9c7928312def2d7621721 ""
+  "research-proposal.tex" 1371572784 6666 28c3f249d95efc7cdda76a8738d82e91 ""
   (generated)
   "research-proposal.log"
   "research-proposal.pdf"
