@@ -1,11 +1,11 @@
 # Fdb version 3
-["biber 1102-Syllabus-2013-Summer-B"] 1371432804 "1102-Syllabus-2013-Summer-B.bcf" "1102-Syllabus-2013-Summer-B.bbl" "1102-Syllabus-2013-Summer-B" 1371523125
+["biber 1102-Syllabus-2013-Summer-B"] 1371432804 "1102-Syllabus-2013-Summer-B.bcf" "1102-Syllabus-2013-Summer-B.bbl" "1102-Syllabus-2013-Summer-B" 1371566799
   "/Users/chris/Dropbox/UCF/Dissertation/bibliography.bib" 1371432787 1090200 99fe4a89fb0858120df906a422040418 ""
-  "1102-Syllabus-2013-Summer-B.bcf" 1371523125 90938 141808bde47a64397d8b43af57483cc9 ""
+  "1102-Syllabus-2013-Summer-B.bcf" 1371566798 90938 141808bde47a64397d8b43af57483cc9 ""
   (generated)
   "1102-Syllabus-2013-Summer-B.blg"
   "1102-Syllabus-2013-Summer-B.bbl"
-["pdflatex"] 1371523121 "1102-Syllabus-2013-Summer-B.tex" "1102-Syllabus-2013-Summer-B.pdf" "1102-Syllabus-2013-Summer-B" 1371523125
+["pdflatex"] 1371566794 "1102-Syllabus-2013-Summer-B.tex" "1102-Syllabus-2013-Summer-B.pdf" "1102-Syllabus-2013-Summer-B" 1371566799
   "/Users/chris/Library/texmf/tex/latex/chrisfriend-OTF-support.sty" 1315411028 1002 2c45db427d66d259cb6ff9f3529f905c ""
   "/Users/chris/Library/texmf/tex/latex/chrisfriend-comp.sty" 1344311023 1733 f2f2c442dea5db3a52bc3bbc963283d1 ""
   "/Users/chris/Library/texmf/tex/pegasus.pdf" 1313619142 8436 1259f3fe5176e1a49cb750ed906cc903 ""
@@ -139,7 +139,6 @@
   "/usr/local/texlive/2012/texmf-dist/tex/latex/euenc/eu1enc.def" 1284849341 1115 6f8850603672e58af2cd599bee6ade7d ""
   "/usr/local/texlive/2012/texmf-dist/tex/latex/euenc/eu1lmr.fd" 1266195411 2284 11da099e92da4724f712149045c96354 ""
   "/usr/local/texlive/2012/texmf-dist/tex/latex/euenc/eu1lmss.fd" 1266195411 1546 f73305b0ca2520efb4953d14dfcb9cb7 ""
-  "/usr/local/texlive/2012/texmf-dist/tex/latex/euenc/eu1lmtt.fd" 1266195411 2375 048018091c9aef586c688eaf2feff1a1 ""
   "/usr/local/texlive/2012/texmf-dist/tex/latex/eukdate/eukdate.sty" 1237480807 2762 3ad1ada929f562fb96a502c7b13b8b88 ""
   "/usr/local/texlive/2012/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty" 1160175134 20521 e5d13d98d57bd53d4fed3aa61bd29c86 ""
   "/usr/local/texlive/2012/texmf-dist/tex/latex/fontspec/fontspec-patches.sty" 1336345946 3686 eeae194f20d99716f110235cf1e51399 ""
@@ -227,14 +226,16 @@
   "/usr/local/texlive/2012/texmf-var/web2c/xetex/xelatex.fmt" 1341108757 3110378 0403bb164468d05470a81b7d8105cc63 ""
   "/usr/local/texlive/2012/texmf.cnf" 1341108668 572 7ea7194897937febeb63145e1c3a1f03 ""
   "/usr/local/texlive/2012/texmf/web2c/texmf.cnf" 1336865692 31299 729e216d9b945005c0d4b079c0500bc9 ""
-  "1102-Syllabus-2013-Summer-B.aux" 1371523125 10523 c71e9fdeeca3e3567c87c4c02f93bb57 ""
+  "1102-Syllabus-2013-Summer-B.aux" 1371566798 10523 d2300f10c6ccb0bab2ffbb2dc485cd61 ""
   "1102-Syllabus-2013-Summer-B.bbl" 1371432806 2341 81a937fe64f9e543374ed65ad9d5ea5b "biber 1102-Syllabus-2013-Summer-B"
-  "1102-Syllabus-2013-Summer-B.run.xml" 1371523125 2563 e3058ba602f69203c101ab94bb1669e4 ""
-  "1102-Syllabus-2013-Summer-B.tex" 1371523115 32669 fbddd12f7bde8bed1e0bc633224833bf ""
-  "visual-syllabus.pdf" 1371136136 378026 888917bb331f4115c566373eebc49968 ""
+  "1102-Syllabus-2013-Summer-B.out" 1371566798 1977 92f11bb2087d3fd97eee3db4a761f493 ""
+  "1102-Syllabus-2013-Summer-B.run.xml" 1371566798 2563 e3058ba602f69203c101ab94bb1669e4 ""
+  "1102-Syllabus-2013-Summer-B.tex" 1371566788 32671 7ee551aedb769737d28d15eabf4aa1de ""
+  "visual-syllabus.pdf" 1371565932 381972 8242208d072b28b0dc1ecb501f872347 ""
   (generated)
   "1102-Syllabus-2013-Summer-B.log"
   "1102-Syllabus-2013-Summer-B.bcf"
+  "1102-Syllabus-2013-Summer-B.out"
   "1102-Syllabus-2013-Summer-B.pdf"
   "1102-Syllabus-2013-Summer-B.aux"
   "1102-Syllabus-2013-Summer-B.run.xml"

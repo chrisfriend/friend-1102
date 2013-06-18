@@ -1,0 +1,126 @@
+\documentclass[12pt, twosides]{texMemo}	%defines this as a memo
+\usepackage{chrisfriend-memo} %provides formatting declarations for page, figures, textcolor, comments, etc.
+\usepackage{chrisfriend-OTF-support} %provides support for OTF system fonts; incompatible with latex, rtf2latex, and ht4latex
+
+\usepackage[toc]{appendix}
+\appendixtitleoff
+\usepackage[stable, hang]{footmisc} % allows footnotes in section titles (used in appendices here)
+\setlength{\footnotemargin}{0em} % ensures that \thanks is flush left and that footnotes don't look silly.
+
+%\usepackage{draftwatermark}
+
+\usepackage{tabulary} % allows for the tables I make rubrics with
+\usepackage{booktabs} % allows fancy lines in tables
+
+\usepackage{multicol}
+
+\usepackage{mdwlist}
+
+\usepackage[nodate]{datetime} % allows the \currenttime command; nodate tells it not to mess up date settings
+%\lhead{\scriptsize\textsc{\textbf{\textcolor{red}{DRAFT}} \number\year .\number\month .\number\day |\currenttime}}
+
+\usepackage{xtab} % allows tables to span pages
+\usepackage{booktabs} % allows fancy lines in tables
+\usepackage{multirow} % allows rowspanning
+\renewcommand{\arraystretch}{1.5}
+\usepackage{colortbl}
+
+\memofrom{}
+%\memodate{\number\day\space\monthname\space\number\year}
+\memodate{Spring 2013}
+
+\memoto{Mr. Friend, Instructor}
+\memosubject{Portfolio Authorization}
+
+\begin{document}
+%\SetWatermarkText{Sample}
+
+\maketitle
+\thispagestyle{empty}
+\noindent This memo verifies my eligibility to have my portfolio and final project assessed at the end of the semester.
+
+\vspace{\baselineskip}
+
+\noindent\textbf{Signatures from my group members, below, indicate my peers’ affirmations that my work meets the expected requirements for each assignment,} as stated in the relevant assignment sheets distributed in class. Their suggestions for improvement and revision appear in separate digital documents.
+
+\vspace{\baselineskip}
+
+\tablehead{\toprule\textbf{\textsc{Asignment}} & \textbf{\textsc{Name}} & \textbf{\textsc{Signature}} & \textbf{\textsc{Date}}\\}
+\tablelasthead{\toprule\textbf{\textsc{Asignment}} & \textbf{\textsc{Name}} & \textbf{\textsc{Signature}} & \textbf{\textsc{Date}}\\}
+
+\begin{mpxtabular}{>{\bfseries}p{.2\textwidth}p{.25\textwidth}p{.25\textwidth}p{.2\textwidth}} % for portrait
+%\begin{xtabular}{>{\bfseries}lccp{2.25in}p{3.25in}} % for landscape
+\midrule
+\arrayrulecolor{gray}
+
+\multirow{2}{*}{\begin{minipage}{.2\textwidth}Brainstorming Audit\end{minipage}} & 1. \\
+\cmidrule(l){2-4}	& 2. \\
+\cmidrule(l){2-4}	& 3. \\
+\cmidrule(l){2-4}	& 4. \\
+\arrayrulecolor{black}
+\midrule
+\arrayrulecolor{gray}
+
+Research Proposal & 1. \\
+\cmidrule(l){2-4}	& 2. \\
+\cmidrule(l){2-4}	& 3. \\
+\cmidrule(l){2-4}	& 4. \\
+\arrayrulecolor{black}
+\midrule
+\arrayrulecolor{gray}
+
+\multirow{2}{*}{\begin{minipage}{.2\textwidth}\flushleft Secondary Research Report\\ \textmd{\emph{Framing Synthesis \& Annotated Bibliography}}\end{minipage}} & 1. \\
+\cmidrule(l){2-4}	& 2. \\
+\cmidrule(l){2-4}	& 3. \\
+\cmidrule(l){2-4}	& 4. \\
+\arrayrulecolor{black}
+\midrule
+\arrayrulecolor{gray}
+   \end{mpxtabular}
+
+\begin{center}
+	Continues on reverse.
+\end{center}
+
+
+\begin{mpxtabular}{>{\bfseries}p{.2\textwidth}p{.25\textwidth}p{.25\textwidth}p{.2\textwidth}} % for portrait
+%\begin{xtabular}{>{\bfseries}lccp{2.25in}p{3.25in}} % for landscape
+\midrule
+\arrayrulecolor{gray}
+
+\multirow{2}{*}{\begin{minipage}{.2\textwidth}\flushleft Primary Research Report\\ \textmd{\emph{Analyses of Stakeholders, Data, \& Genres}}\end{minipage}} & 1. \\
+\cmidrule(l){2-4}	& 2. \\
+\cmidrule(l){2-4}	& 3. \\
+\cmidrule(l){2-4}	& 4. \\
+\arrayrulecolor{black}
+\midrule
+\arrayrulecolor{gray}
+
+\multirow{2}{*}{\begin{minipage}{.2\textwidth}Academic Research Report\end{minipage}} & 1. \\
+\cmidrule(l){2-4}	& 2. \\
+\cmidrule(l){2-4}	& 3. \\
+\cmidrule(l){2-4}	& 4. \\
+\arrayrulecolor{black}
+\midrule
+\arrayrulecolor{gray}
+
+\multirow{2}{*}{\begin{minipage}{.2\textwidth}Rhetorically Situated Genre Sample\end{minipage}} & 1. \\
+\cmidrule(l){2-4}	& 2. \\
+\cmidrule(l){2-4}	& 3. \\
+\cmidrule(l){2-4}	& 4. \\
+\arrayrulecolor{black}
+\midrule
+\arrayrulecolor{gray}
+
+\multirow{2}{*}{\begin{minipage}{.2\textwidth}\flushleft Final Portfolio\\ \textmd{\emph{Process Documentation \& Course Audit}}\end{minipage}} & 1. \\
+\cmidrule(l){2-4}	& 2. \\
+\cmidrule(l){2-4}	& 3. \\
+\cmidrule(l){2-4}	& 4. \\
+\arrayrulecolor{black}
+
+
+ 	\bottomrule
+    \end{mpxtabular}
+
+
+\end{document} 
