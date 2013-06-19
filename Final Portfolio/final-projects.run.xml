@@ -44,10 +44,10 @@
   <internal package="biblatex" priority="9" active="0">
     <generic>latex</generic>
     <provides type="dynamic">
-      <file>portfolio-assignment.bcf</file>
+      <file>final-projects.bcf</file>
     </provides>
     <requires type="dynamic">
-      <file>portfolio-assignment.bbl</file>
+      <file>final-projects.bbl</file>
     </requires>
     <requires type="static">
       <file>blx-dm.def</file>
@@ -67,19 +67,19 @@
     <generic>biber</generic>
     <cmdline>
       <binary>biber</binary>
-      <infile>portfolio-assignment</infile>
+      <infile>final-projects</infile>
     </cmdline>
     <input>
-      <file>portfolio-assignment.bcf</file>
+      <file>final-projects.bcf</file>
     </input>
     <output>
-      <file>portfolio-assignment.bbl</file>
+      <file>final-projects.bbl</file>
     </output>
     <provides type="dynamic">
-      <file>portfolio-assignment.bbl</file>
+      <file>final-projects.bbl</file>
     </provides>
     <requires type="dynamic">
-      <file>portfolio-assignment.bcf</file>
+      <file>final-projects.bcf</file>
     </requires>
     <requires type="editable">
       <file>bibliography.bib</file>
